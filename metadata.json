@@ -1,0 +1,6 @@
+{
+  "name": "Профилактика ДТП в Республики Марий Эл",
+  "description": "Система анализа и профилактики дорожно-транспортного травматизма в Республике Марий Эл для дипломной работы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
